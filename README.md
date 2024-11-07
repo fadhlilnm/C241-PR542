@@ -4,7 +4,7 @@
   InWarkop
 </h1>
 
-## Bangkit Capstone Project 2022
+## Bangkit Capstone Project 2024
 
 Bangkit Capstone Team ID : C241-PR541 <br>
 Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
